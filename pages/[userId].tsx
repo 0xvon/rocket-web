@@ -3,10 +3,8 @@ import { useRouter } from "next/router"
 import { useState, useEffect } from "react"
 import { Domain, APIClient } from "../core"
 import Head from "next/head"
-import { Header } from "../components"
-// import { Flex, Text, Button, Link } from "@chakra-ui/react"
-
-// const fetcher = (url: string) => fetch(url).then((r) => r.json())
+import { Header, UserInfo, UserProfile } from "../components"
+import { Box } from "@chakra-ui/react"
 
 const User: NextPage = () => {
     const router = useRouter()
@@ -31,7 +29,22 @@ const User: NextPage = () => {
             </Head>
             <Header.Component />
 
-            <div>hello, {profile?.user.name}!</div>
+            {profile ? (
+                <div>
+                    <UserInfo.Component user={profile.user} />
+                    <Box m="0 20px">
+                        <UserProfile.Component
+                            recentlyFollowingGroups={
+                                profile.recentlyFollowingGroups
+                            }
+                            followingGroups={profile.followingGroups}
+                            liveSchedule={profile.liveSchedule}
+                        />
+                    </Box>
+                </div>
+            ) : (
+                <></>
+            )}
         </div>
     )
 }

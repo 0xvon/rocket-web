@@ -3,6 +3,7 @@ import { Stack } from "@chakra-ui/react"
 import { InputControl, SubmitButton } from "formik-chakra-ui"
 import { Formik } from "formik"
 import * as Yup from "yup"
+import { theme } from "./"
 
 interface Props {
     submitAction: (username: string) => void
@@ -50,12 +51,11 @@ export const Component = (props: Props) => {
                         id="hoge"
                         name="username"
                         label="ユーザーネーム"
-                        borderColor="#E4472A"
+                        borderColor={theme.color.brand.primary}
                     />
                     <SubmitButton
                         isLoading={props.isLoading}
-                        colorScheme="green"
-                        backgroundColor="#E4472A"
+                        backgroundColor={theme.color.brand.primary}
                     >
                         検索
                     </SubmitButton>
