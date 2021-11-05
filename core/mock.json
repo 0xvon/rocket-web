@@ -1,0 +1,1413 @@
+{
+    "user": {
+        "id": "A138D23B-804F-4569-8E2C-C05A77624968",
+        "role": {
+            "kind": "artist",
+            "value": {
+                "part": "Ba. & Vo."
+            }
+        },
+        "name": "Masato James",
+        "thumbnailURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/ap-northeast-1:2b1a7c67-083e-41ad-8482-b2ce97a07cdb/C5E63922-A1D4-411F-B616-48574ADC46EA.jpeg",
+        "sex": "男性",
+        "liveStyle": "株式会社ウォールオブデス代表",
+        "residence": "東京都",
+        "age": 22
+    },
+    "frequentlyWatchingGroups": [
+        {
+            "watchingCount": 6,
+            "isFollowing": true,
+            "group": {
+                "id": "4D0DD882-DBDA-4021-9971-10FF44BD83EF",
+                "name": "THE ORAL CIGARETTES",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC2-n_x0Xt_-wLdOilnp2m7A.jpeg",
+                "isVerified": false,
+                "twitterId": "oral_official",
+                "youtubeChannelId": "UC2-n_x0Xt_-wLdOilnp2m7A"
+            },
+            "followersCount": 11
+        },
+        {
+            "watchingCount": 6,
+            "followersCount": 1,
+            "group": {
+                "name": "LiSA",
+                "id": "2FC4B055-BA77-46CF-AD49-D181B9B3F1C3",
+                "biography": "アーティスト・LiSAのOfficial YouTubeチャンネル。\n2011年ソロデビュー。数々のアニメ主題歌・劇中歌を担当、全てのシングルが上位にランクインするヒットを連発。\nラウド系ロックからポップスまでを唄いこなす、変幻自在さが持ち味の音楽性は、アニメファンだけでなくロックファンからも大きな支持を得ており、数々のアニメフェス、ロックフェス共に出演するアーティストとして、確固たる存在感を発揮している。\n観客を興奮の渦に巻き込んで行く圧倒的なライブパフォーマンスは、海外でも高い評価を受けており、その活",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCqEfdEvLG5oQWNYlDQrGlKw.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCqEfdEvLG5oQWNYlDQrGlKw",
+                "twitterId": "LiSA_OLiVE"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 6,
+            "isFollowing": true,
+            "followersCount": 8,
+            "group": {
+                "id": "C264747D-825C-4199-85CC-3FA5A8E36739",
+                "name": "MY FIRST STORY",
+                "biography": "MY FIRST STORY Offcial YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCE721tjLVikhxeq-fW5hHGg.jpeg",
+                "twitterId": "MyFirstStory_of",
+                "youtubeChannelId": "UCE721tjLVikhxeq-fW5hHGg",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 6,
+            "isFollowing": true,
+            "group": {
+                "name": "04 Limited Sazabys",
+                "id": "1430393C-FFCE-4B4D-82D4-36732DB47FA8",
+                "biography": "04 Limited Sazabys Official YouTube Channel.\n\n2008年名古屋にて結成の4ピースロックバンド。\nメンバーはGEN（Ba/Vo）、HIROKAZ（Gt）、RYU-TA（Gt/Cho）、KOUHEI（Dr/Cho）\n2015年に1st Full Album『CAVU』をリリースしメジャー進出。2016年4月、バンド主催の野外フェス\"YON FES 2016\"を地元・愛知県で初開催。2017年には日本武道館公演を行い即日完売。2018年には結成10周年を迎え、東名阪",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC58v9fVYNYo5uVAlhUjPrkA.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UC58v9fVYNYo5uVAlhUjPrkA",
+                "twitterId": "04ls_nagoya"
+            },
+            "followersCount": 34
+        },
+        {
+            "watchingCount": 4,
+            "followersCount": 7,
+            "group": {
+                "id": "153DEDA8-5CAD-43C9-9E8A-8EF0CC86B346",
+                "name": "SiM",
+                "biography": "SiM Official YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCcrvP_Z93Zts_Xd7UGKH2CQ.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCcrvP_Z93Zts_Xd7UGKH2CQ",
+                "twitterId": "SiM_Official"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 4,
+            "followersCount": 3,
+            "isFollowing": true,
+            "group": {
+                "name": "Fear, and Loathing in Las Vegas",
+                "id": "ED09D368-5404-4364-BF8D-DF0792AAC9B5",
+                "biography": "Fear, and Loathing in Las Vegas is a Japanese electronicore band from Kobe that was formed in summer 2008. The band currently consists of vocalist So, keyboardist Minami, guitarist Taiki, drummer Tomonori, and bassist Tetsuya. They are best known for thei",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9rdhKjcQ-GhrG0dL1BQg0g.jpeg",
+                "twitterId": "Falilv",
+                "youtubeChannelId": "UC9rdhKjcQ-GhrG0dL1BQg0g",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 3,
+            "followersCount": 14,
+            "group": {
+                "id": "DF238B55-A107-401A-8755-28011C46EBC1",
+                "name": "Saucy Dog",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCs8nP5mUR3pwJmgixsul8Hw.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCs8nP5mUR3pwJmgixsul8Hw",
+                "twitterId": "saucydog_offi"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 3,
+            "isFollowing": false,
+            "group": {
+                "id": "B27F882D-D0A7-43EA-9F54-73E50C29EC88",
+                "name": "マキシマム ザ ホルモン",
+                "biography": "マキシマム ザ ホルモン公式チャンネル。\n1998年八王子にて結成。日本語を独自の語感表現で操り、意味不明に見えて実は奥深いメッセージ性を持つ強烈な歌詞と、激しいラウドロックにPOPなメロディを融合させたサウンドスタイルが特徴的な、マキシマムザ亮君(歌と6弦と弟)、ダイスケはん(キャーキャーうるさい方)、上ちゃん(4弦)、ナヲ(ドラムと女声と姉)の4人からなるロックバンド。\nアルバム「予襲復讐」のオリコンアルバムチャート3週連続1位獲得の他、「ロックバンドのフランチャイズ化マキシマムザホルモン2号店プロジ",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCbb9FsCRA83-6vdgXn2KSyA.jpeg",
+                "twitterId": "MTH_OFFICIAL",
+                "youtubeChannelId": "UCbb9FsCRA83-6vdgXn2KSyA",
+                "isVerified": false
+            },
+            "followersCount": 1
+        },
+        {
+            "watchingCount": 3,
+            "followersCount": 18,
+            "isFollowing": true,
+            "group": {
+                "id": "E5468585-37F3-49EA-944F-7E6200066CFA",
+                "name": "10-FEET",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCmQakL41jbAhpQhqhyszF2g.jpeg",
+                "twitterId": "takuma10feet",
+                "youtubeChannelId": "UCmQakL41jbAhpQhqhyszF2g",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 3,
+            "followersCount": 7,
+            "isFollowing": true,
+            "group": {
+                "name": "BLUE ENCOUNT",
+                "id": "CFB7EAFC-0993-47D8-87ED-E8DFE2D9B656",
+                "biography": "田邊駿一（Vo. Gt.）、江口雄也（Gt.）、辻村勇太（Ba.）、高村佳秀（Dr.）による熊本発、都内在住4人組エモーショナルギターロックバンド。\n熱く激しくオーディエンスと一体になり、ダイレクトに感情をぶつける熱血なパフォーマンスが話題のエモーショナルロックバンド。2014年9月にEP『TIMELESS ROOKIE』でメジャーデビュー。\n2020年11月18日には4th Album『Q.E.D』をリリース！\n\nBLUE ENCOUNTオフィシャルサイト：http://blueencount.jp/",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCN1YNkQdGzJTtHZAQO7uxcQ.jpeg",
+                "twitterId": "BLUEN_official",
+                "youtubeChannelId": "UCN1YNkQdGzJTtHZAQO7uxcQ",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 3,
+            "isFollowing": false,
+            "group": {
+                "name": "HEY-SMITH",
+                "id": "DFA202C2-4F44-4363-92AD-084BB2C408A6",
+                "biography": "HEY-SMITHの公式CHANNELです！！",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCo78KeqxAo_Nxe-jtOikMOA.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCo78KeqxAo_Nxe-jtOikMOA",
+                "twitterId": "HEY_SMITH_Japan"
+            },
+            "followersCount": 1
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "followersCount": 5,
+            "group": {
+                "name": "sumika",
+                "id": "2E460BB0-F7D0-4245-99E5-C2098891C67B",
+                "biography": "sumika OFFICIAL YouTube Ch.\n\nVo,Gt /片岡健太\nDr,Cho/荒井智之\nGt,Cho/黒田隼之介\nKey,Cho/小川貴之\n\nNewアルバム\n「AMUSIC」\n2021年3月3日発売\n\n『AMUSIC』絶賛配信中⬇︎\nhttps://sumika.lnk.to/Oi3VsG​\n\n収録楽曲\n1. Lamp\n2. 祝祭…森永製菓 受験に inゼリー2021 CMソング\n3. 願い…テレビ朝日系土曜ナイトドラマ『おっさんずラブ-in the sky-』主題歌\n4. イコール…読",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCCdibO9eRKJIre22DKDNqug.jpeg",
+                "isVerified": false,
+                "twitterId": "sumika_inc",
+                "youtubeChannelId": "UCCdibO9eRKJIre22DKDNqug"
+            }
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "id": "D2D5A700-87A4-4F5B-A5C1-DDCA8607694B",
+                "name": "yonige",
+                "biography": "yonige OFFICIAL YouTube channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCGzzmxpiP8YpPQsM8iU8jcQ.jpeg",
+                "twitterId": "_yonige",
+                "isVerified": false,
+                "youtubeChannelId": "UCGzzmxpiP8YpPQsM8iU8jcQ"
+            },
+            "followersCount": 1
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "followersCount": 1,
+            "group": {
+                "name": "東京スカパラダイスオーケストラ",
+                "id": "F464EC0B-DBBB-48D0-8997-5A1AD2D6E4FB",
+                "biography": "TOKYO SKA PARADISE ORCHESTRA http://tokyoska.net/",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC5RmUAcm_w5K9cxtQSj7W7g.jpeg",
+                "twitterId": "tokyoskaj",
+                "youtubeChannelId": "UC5RmUAcm_w5K9cxtQSj7W7g",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "id": "22C69766-638A-47B4-8F53-BC48D3792666",
+                "name": "SHANK",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCpcNm6gGDg-lFUz9D6yfLKA.jpeg",
+                "twitterId": "SHANK095",
+                "youtubeChannelId": "UCpcNm6gGDg-lFUz9D6yfLKA",
+                "isVerified": false
+            },
+            "followersCount": 1
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "name": "Yogee New Waves",
+                "id": "383BF447-0E33-417A-854F-A03FE0261146",
+                "biography": "Yogee New WavesのオフィシャルYouTubeチャンネルです。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCK8yCL7OaVb2PLg2XUh7Xyg.jpeg",
+                "twitterId": "Yogees_band",
+                "youtubeChannelId": "UCK8yCL7OaVb2PLg2XUh7Xyg",
+                "isVerified": false
+            },
+            "followersCount": 0
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "followersCount": 0,
+            "group": {
+                "name": "アルカラ",
+                "id": "793803C6-DE4E-4581-B8D0-D60D24300680",
+                "biography": "アルカラ\nBa.下上貴弘　 Vo/G.稲村太佑　Dr.疋田武史\n\n自称「ロック界の奇行師」\n\n現在までにアルバム9枚、ミニアルバム3枚、スプリットEP1枚、ep1枚、シングル3枚、ライブDVD7枚、MV集1枚\n他、アルバム「ボーナストラック大全集」をリリース。\nギターロックやオルタナティヴロックなどの音楽性を基調としながら一筋縄でいかない自由奔放さで唯一無二の世界を築き上げている。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UClsgo2HfVdGTUS0XoKCiU7Q.jpeg",
+                "twitterId": "sho_n1116",
+                "youtubeChannelId": "UClsgo2HfVdGTUS0XoKCiU7Q",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "id": "D4125B94-71DF-4507-9786-97DA3E090E95",
+                "name": "SHE'S",
+                "biography": "［SHE'S］Official YouTube Channel\n\n＜Official Site＞\nhttp://she-s.info/\n\n＜Official Twitter＞\nhttps://twitter.com/SHE_S_official_",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCvSxOr1GMmFOMgP8EV40Bcw.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCvSxOr1GMmFOMgP8EV40Bcw",
+                "twitterId": "SHE_S_official_"
+            },
+            "followersCount": 6
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 1,
+            "group": {
+                "name": "SCANDAL",
+                "id": "2EE99CB5-5766-4E01-B2F9-FB90BCCD74AE",
+                "biography": "SCANDAL\n\n2006年大阪・京橋で結成。2008年「DOLL」でメジャーデビュー。\n翌年には「少女S」でレコード大賞新人賞受賞。\n近年ではSCANDALの影響で楽器を始める女子も増え、10代女子を中心に絶大な人気を誇っている。\n2015年SCANDAL史上最大世界9カ国41公演の初の単独ワールドツアーを行い、2016年8月に結成10周年を迎え、結成地大阪にて野外コンサートを開催。\n2018年プライベートレーベル \"her\" を始動、名実ともに日本を代表するガールズバンド。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCSNX8VGaawLFG_bAZuMyQ3Q.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCSNX8VGaawLFG_bAZuMyQ3Q",
+                "twitterId": "scandal_band"
+            },
+            "isFollowing": false
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 13,
+            "group": {
+                "name": "RADWIMPS",
+                "id": "2F01E02F-AFF0-499D-BA6B-B296936C7204",
+                "biography": "Vocal / Guitar / Piano\n野田洋次郎　Yojiro Noda\nGuitar\n桑原彰　Akira Kuwahara\nBass\n武田祐介　Yusuke Takeda\nDrum\n山口智史　Satoshi Yamaguchi\n",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCIVqvhyo8ttjYOmMJuhq_YQ.jpeg",
+                "twitterId": "RADWIMPS",
+                "youtubeChannelId": "UCIVqvhyo8ttjYOmMJuhq_YQ",
+                "isVerified": false
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 2,
+            "isFollowing": false,
+            "group": {
+                "id": "84886EB1-277C-4A92-9CB1-7A810EA24AFA",
+                "name": "フレデリック",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCeoCO4_u1DdJBwyil66IsNw.jpeg",
+                "twitterId": "frederitter",
+                "isVerified": false,
+                "youtubeChannelId": "UCeoCO4_u1DdJBwyil66IsNw"
+            }
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 0,
+            "group": {
+                "id": "D57F2524-69C3-4C36-8543-212A7382315E",
+                "name": "GLIM SPANKY",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCJ17zOieJYpGYqXIyG1XpEg.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCJ17zOieJYpGYqXIyG1XpEg",
+                "twitterId": "glimspanky"
+            },
+            "isFollowing": false
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "followersCount": 0,
+            "group": {
+                "name": "WANIMA",
+                "id": "91DF278A-0034-4ACB-909C-9D97C0BEAA43",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCVvaL0oaZbvWNTa-xPeTxNw.jpeg",
+                "twitterId": "WANIMA_OFFICIAL",
+                "isVerified": false,
+                "youtubeChannelId": "UCVvaL0oaZbvWNTa-xPeTxNw"
+            }
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "name": "クリープハイプ",
+                "id": "D90EE3B9-40EA-4CA3-BEDC-72D2F1A7AE05",
+                "biography": "CreepHyp Official YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9qzBf1wP4tGot4qi__1B_g.jpeg",
+                "twitterId": "creephyp",
+                "youtubeChannelId": "UC9qzBf1wP4tGot4qi__1B_g",
+                "isVerified": false
+            },
+            "followersCount": 11
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "name": "9mm Parabellum Bullet",
+                "id": "58197CE2-8EF2-4B5C-9CD0-0BD56B28EC73",
+                "biography": "9mm Parabellum Bullet Official YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCfa7OCxD-_ZQStef2zJeg_w.jpeg",
+                "twitterId": "9mm_official",
+                "isVerified": false,
+                "youtubeChannelId": "UCfa7OCxD-_ZQStef2zJeg_w"
+            },
+            "followersCount": 2
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "followersCount": 0,
+            "group": {
+                "name": "キュウソネコカミ",
+                "id": "970BFCAD-29A7-4AD3-88CC-0AF9B8669570",
+                "biography": "キュウソネコカミ are\n\n\n　 Vo/Gt ヤマサキ セイヤ(ex セルフボラギノール)\n　　　　\nGt オカザワ カズマ(ex セルフボラギノール)\n\nBa カワクボ タクロウ　\n\nKey/Vo ヨコタ シンノスケ(ex BLANK MAP)\n\nDr ソゴウ タイスケ(ex バカ力)\n\n\n2009年12月関学にて結成！！！2010年より関西を中心に活動中！！！\n\n2011年11月25日　Baはがね丸脱退。テクノブレイカーの道へ。同時にカワクボ タクロウ加入。\n\n2014年4月1日　ビクター入団。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCsEHv_hCszbDVBE1R1yFQaA.jpeg",
+                "twitterId": "KYUSO_NEKOKAMI",
+                "youtubeChannelId": "UCsEHv_hCszbDVBE1R1yFQaA",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 2,
+            "group": {
+                "name": "NICO Touches the Walls",
+                "id": "DEA4647E-45AE-4C6C-BC76-E076E1879677",
+                "biography": "NewAlbum\r\n「Shout to the Walls !」\r\n2013.04.24リリース\r\n\r\nNICO Touches the Walls、遂に\"壁\"を歌う。 \r\nバンドの進化と回帰が併走する自由で躍動的な傑作完成！ \r\n\r\n前作「HUMANIA」から1年5カ月。新たなフェイズが鮮やかに開幕！不変のメロディーを中心に全方位で新たな試みにチャレンジ、初めての触感があちこちに飛び散っている濃厚で力強い5thアルバム。バンド名の一部である\"壁\"と対峙したアルバムタイトルにも表れているとおり、歌詞も全編",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCeXK1WQa-CCmkSKM3Vaq_AQ.jpeg",
+                "twitterId": "N_T_t_W",
+                "youtubeChannelId": "UCeXK1WQa-CCmkSKM3Vaq_AQ",
+                "isVerified": false
+            },
+            "isFollowing": false
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 14,
+            "isFollowing": true,
+            "group": {
+                "id": "B880757D-5447-4FF9-8F08-13F1F0E0C917",
+                "name": "ONE OK ROCK",
+                "biography": "ONE OK ROCK Official Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCzycs8MqvIY4nXWwS-v4J9g.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCzycs8MqvIY4nXWwS-v4J9g",
+                "twitterId": "ONEOKROCK_japan"
+            }
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 3,
+            "isFollowing": false,
+            "group": {
+                "id": "C15590FA-2F1F-4522-A89B-E20D06F0A723",
+                "name": "coldrain",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC0L1UZsfCTUu15xPUoMkyfA.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UC0L1UZsfCTUu15xPUoMkyfA",
+                "twitterId": "coldrain_jp"
+            }
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "followersCount": 1,
+            "group": {
+                "id": "2053398B-28E6-4B1B-A688-6C8DBC1C3011",
+                "name": "MONOEYES",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC_9nl3PQbgHjjyTZ8pvsSiQ.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UC_9nl3PQbgHjjyTZ8pvsSiQ",
+                "twitterId": "monoeyes_offic"
+            }
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 2,
+            "group": {
+                "id": "5B492A39-2451-4DF4-92D6-614BD7868E3B",
+                "name": "OKAMOTO'S",
+                "biography": "OKAMOTO'SのYouTube公式チャンネルです。\r\nミュージックビデオやお知らせ動画などを配信いたします。是非チャンネル登録を！",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCQwo62t9g-E_ZKXzb4CRL-Q.jpeg",
+                "isVerified": false,
+                "twitterId": "OKAMOTOS_INFO",
+                "youtubeChannelId": "UCQwo62t9g-E_ZKXzb4CRL-Q"
+            },
+            "isFollowing": false
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 0,
+            "group": {
+                "name": "BRADIO",
+                "id": "AE22CE1C-947F-414D-A009-BDE2A90471A6",
+                "biography": "真行寺貴秋(Vo)、大山聡一(G)、酒井亮輔(B)からなるファンキーなバンド BRADIO。\n『音楽って素晴らしい』を共有したい。\nAre You Ready Funky Party People！！",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UChIyJLIhYC7HoVZ6VQZENMA.jpeg",
+                "twitterId": "BRADIO_official",
+                "youtubeChannelId": "UChIyJLIhYC7HoVZ6VQZENMA",
+                "isVerified": false
+            },
+            "isFollowing": false
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "followersCount": 8,
+            "group": {
+                "id": "E32CB4E0-14F7-4C44-AD10-CF03779FBE42",
+                "name": "SUPER BEAVER",
+                "biography": "SUPER BEAVER Offcial YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCB3pkYGb_ykRHniDx8Jftsw.jpeg",
+                "isVerified": false,
+                "twitterId": "super_beaver",
+                "youtubeChannelId": "UCB3pkYGb_ykRHniDx8Jftsw"
+            }
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": true,
+            "group": {
+                "id": "D4BBAA5A-18EB-467A-AA5D-046F1C88F1FE",
+                "name": "Survive Said The Prophet",
+                "biography": "Survive Said The Prophet\n\nSurvive Said The Prophet 通称「サバプロ」は2011年、東京にて結成。ネイティブな英語を操るバイリンガルのボーカリストYoshの圧倒的な歌唱力とカリスマ性を筆頭に、確かなスキル、ミュージシャンシップ、そして個性的なキャラクターを持った５人のメンバーからなる奇跡のインターナショナル・ロック・バンド。その異彩を放つ音楽性はロックに限らず、ポップ、エレクトロ、ヒップホップ、R&Bまで幅広いバックグラウンドをベースに、既存のシーンの枠に収",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCZeseZDL_lAGF7ekWVITdbw.jpeg",
+                "isVerified": false,
+                "twitterId": "SSTPofficial",
+                "youtubeChannelId": "UCZeseZDL_lAGF7ekWVITdbw"
+            },
+            "followersCount": 2
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "id": "C38561E7-C987-4020-AB33-67940198D7F1",
+                "name": "BIGMAMA",
+                "biography": "金井政人(Vo,G) / masato kanai　\n柿沼広也(G,Vo) /hiroya kakinuma\n安井英人(Ba) /hideto yasui　　\n東出真緒(Violin）/mao higashide\n\nバイオリンを擁するロックバンド。\nロックとクラシックを融合させたコンセプトアルバム「Roclassick」を発表するなど、日本のロック界に新たな革命を起こす\n2020年、クリスマスイブに行った配信ライブ「BIGMAMA Christmas 2020 Holy Night ～誰もがみんなサンタク",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCLmSEdH9y2QRSRtbJyMPoIA.jpeg",
+                "isVerified": false,
+                "twitterId": "bigmamaofficial",
+                "youtubeChannelId": "UCLmSEdH9y2QRSRtbJyMPoIA"
+            },
+            "followersCount": 1
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "id": "751736DC-78E5-42AF-8F39-652AF4DBC411",
+                "name": "ヤバイTシャツ屋さん",
+                "biography": "ヤバイTシャツ屋さんのOfficial YouTube Channelです！\n\nヤバイTシャツ屋さん\n2013年に大阪芸術大学のサークル仲間で結成。\n大阪を拠点に活動する男女ツインボーカル3ピースバンド、ヤバイTシャツ屋さん（通称：ヤバT）\n\nこやまたくや（Gt.Vo.）\nしばたありぼぼ（Ba.Vo.）\nもりもりもと（Dr.Cho.）\nそこまでヤバくないです。\n\n2016年のデビューから何かと大注目され、これまでのレコ発ツアーは全公演SOLD OUT！全国各地のフェスも子供から大人まで数万人規模のステージ",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC8I6zfC0uDPkB1fqUzt-AHQ.jpeg",
+                "twitterId": "yabaT_official",
+                "isVerified": false,
+                "youtubeChannelId": "UC8I6zfC0uDPkB1fqUzt-AHQ"
+            },
+            "followersCount": 2
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": false,
+            "group": {
+                "id": "D2290B1C-B04B-47BC-B537-48DA1E4FAC7E",
+                "name": "エレファントカシマシ",
+                "biography": "エレファントカシマシ / THE ELEPHANT KASHIMASHI  Official YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCT9b7yx6qEl0q994k4s6IEw.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCT9b7yx6qEl0q994k4s6IEw",
+                "twitterId": "elekashi30th"
+            },
+            "followersCount": 0
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": false,
+            "followersCount": 0,
+            "group": {
+                "name": "ORANGE RANGE",
+                "id": "EA4DFEBD-120F-454F-8246-2247EE63BA92",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCxQZcPQs8MM7iY80QsD4DOg.jpeg",
+                "twitterId": "orangerangenow",
+                "youtubeChannelId": "UCxQZcPQs8MM7iY80QsD4DOg",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 3,
+            "isFollowing": false,
+            "group": {
+                "id": "7840A017-68EA-4DEC-B5ED-C79D610459BB",
+                "name": "サカナクション",
+                "biography": "サカナクション オフィシャルYouTubeチャンネル",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCli_j3KPGhsF1Mv1AK17UPA.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCli_j3KPGhsF1Mv1AK17UPA",
+                "twitterId": "sakanaction"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": false,
+            "group": {
+                "id": "3E6B7702-CD74-42E2-AB25-1AC2E84F4A6E",
+                "name": "BiS",
+                "biography": "駆け出しアイドル　BiS　新生アイドル研究会のyoutubeチャンネルです！",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCbaqy8vX2eEks7PIoQjm_jA.jpeg",
+                "isVerified": false,
+                "twitterId": "BiSidol",
+                "youtubeChannelId": "UCbaqy8vX2eEks7PIoQjm_jA"
+            },
+            "followersCount": 1
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 0,
+            "group": {
+                "name": "HKT48",
+                "id": "74DA4B5F-D001-48CC-AD4D-E77BCDA20CC4",
+                "biography": "東京・秋葉原のAKB48、名古屋・栄のSKE48、大阪・難波のNMB48に続く、 ＡＫＢ４８プロジェクト第４弾として福岡・博多に発足した『HKT48』の公式チャンネル。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCPQ0GEWwLaam1lTX9P-CgGA.jpeg",
+                "isVerified": false,
+                "twitterId": "hkt48_official_",
+                "youtubeChannelId": "UCPQ0GEWwLaam1lTX9P-CgGA"
+            },
+            "isFollowing": false
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 0,
+            "isFollowing": false,
+            "group": {
+                "name": "アフィシャナドゥ",
+                "id": "A20E6977-E011-4B4E-AD9D-A02882C02B58",
+                "biography": "2021年8月結成されたアイドルグループ\nアフィシャナドゥのチャンネルとなります。\n\n",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCMifwyyggkSveWjipxdkjSA.jpeg",
+                "isVerified": false,
+                "twitterId": "aficiona_do",
+                "youtubeChannelId": "UCMifwyyggkSveWjipxdkjSA"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": true,
+            "followersCount": 3,
+            "group": {
+                "name": "忘れらんねえよ",
+                "id": "03374382-03FE-4D57-B70A-BA087376DBE5",
+                "biography": "忘れらんねえよのOfficial Channelです。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC0gNnazizbOBRlYKDskJVZA.jpeg",
+                "twitterId": "wasureranneyo",
+                "youtubeChannelId": "UC0gNnazizbOBRlYKDskJVZA",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": false,
+            "followersCount": 0,
+            "group": {
+                "id": "20E2AA6C-AE7E-493B-9B03-1F8D5C27CF37",
+                "name": "Nothing's Carved In Stone",
+                "biography": "Nothing's Carved In Stone Official Channel\n\n[Vocal, Guitar] 村松 拓 Taku Muramatsu\n[Guitar] 生形 真一 Shinichi Ubukata\n[Bass] 日向 秀和 Hidekazu Hinata\n[Drums] 大喜多 崇規 Takanori Ohkita\n\nNew Digital Single「Bloom in the Rain」\n各配信サイト＆サブスクリプション：https://ssm.lnk.to/BitR\nMus",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCPjkfFD4u9kLL1_s8Jygb5w.jpeg",
+                "isVerified": false,
+                "youtubeChannelId": "UCPjkfFD4u9kLL1_s8Jygb5w",
+                "twitterId": "NCIS_BANDS"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": false,
+            "group": {
+                "name": "フジファブリック",
+                "id": "6262C01B-9FA2-4C84-AA6B-5157785B5963",
+                "biography": "フジファブリックの公式YouTube Channel。\nMUSIC VIDEO、コメント、トレーラー映像など今後も随時公開予定。\n\n□フジファブリックOfficial Website http://www.fujifabric.com/",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9xegsDUbUhHjcjp95zsiAg.jpeg",
+                "twitterId": "Fujifabric_info",
+                "isVerified": false,
+                "youtubeChannelId": "UC9xegsDUbUhHjcjp95zsiAg"
+            },
+            "followersCount": 1
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 1,
+            "group": {
+                "id": "6CD608E0-E2F4-4ECB-B8AF-5C39A45254F9",
+                "name": "MAN WITH A MISSION",
+                "biography": "MAN WITH A MISSION。通称MWAM。\n彼らは天才科学者ジミーヘンドリックスがこの世に残した、究極の生命体。\n『使命を持った男』があなたの街に、あのライブハウスに、あの国に。\n世界中に出没して、次なる『使命』を全うしにやってくる・・・\n\n MWAM was awaken from eternal sleep!\nAre they justice for this world? Or nothing else but evil?\n\"MAN WITH A MISSION\" is now back ",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCy21ToKvBD45wUPaSLkr5NQ.jpeg",
+                "isVerified": false,
+                "twitterId": "mwamjapan",
+                "youtubeChannelId": "UCy21ToKvBD45wUPaSLkr5NQ"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 3,
+            "isFollowing": false,
+            "group": {
+                "name": "凛として時雨",
+                "id": "98AEC80D-3CAB-46E7-810C-02075A1BFCD9",
+                "biography": "凛として時雨Official YouTube Channelオープン。\r\nMUSIC VIDEO、OTHER WORK、TRAILERなどを今後も追加公開予定。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCWxFYv7xfPQVx5yzjpJX33w.jpeg",
+                "twitterId": "sigure_official",
+                "youtubeChannelId": "UCWxFYv7xfPQVx5yzjpJX33w",
+                "isVerified": false
+            }
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": false,
+            "followersCount": 0,
+            "group": {
+                "id": "B242E3B6-16BC-49A7-AB58-3CC7F2649E69",
+                "name": "the HIATUS",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCvgSJvu1lF1z8vPlLP5uvAg.jpeg",
+                "isVerified": false,
+                "twitterId": "theHIATUSoffic",
+                "youtubeChannelId": "UCvgSJvu1lF1z8vPlLP5uvAg"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 4,
+            "group": {
+                "name": "go!go!vanillas",
+                "id": "DC9B352E-BD9A-427B-876E-14AE66464FB2",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCNcjLKvYslbCdGxO60cKFVg.jpeg",
+                "twitterId": "go_go_vanillas",
+                "isVerified": false,
+                "youtubeChannelId": "UCNcjLKvYslbCdGxO60cKFVg"
+            },
+            "isFollowing": false
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 2,
+            "group": {
+                "name": "PEDRO",
+                "id": "B0C9DA4B-A7D9-49B6-B86E-39D1E21B4190",
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCMlScRSfqovXpcg447emv4A.jpeg",
+                "twitterId": "PEDRO_AYUNiD",
+                "isVerified": false,
+                "youtubeChannelId": "UCMlScRSfqovXpcg447emv4A"
+            },
+            "isFollowing": true
+        }
+    ],
+    "transition": {
+        "yearLabel": ["2015", "2016", "2017", "2018", "2019", "2021"],
+        "liveParticipatingCount": [1, 3, 8, 4, 9, 7]
+    },
+    "liveSchedule": [
+        {
+            "hasTicket": false,
+            "participantCount": 0,
+            "postCount": 0,
+            "isLiked": true,
+            "live": {
+                "style": {
+                    "kind": "festival",
+                    "value": [
+                        {
+                            "name": "アスノポラリス",
+                            "biography": "落岩勇弥（Vo/Gt）の優しい歌声に乗せたバラードと、相反するように爆発的な楽曲が織り込まれたセットリストはライヴ会場を魅了し、会場限定配布1stデモ『アスノポラリス』は重版に。2020年8月に公開したミュージック・ビデオ「ラブソング」は、2週間で1.5万回再生を突破するなど注目を集める。\"自信の持てない日々にそっと寄り添える音楽を\"をコンセプトに活動中。\n",
+                            "englishName": "asu no polaris",
+                            "since": "2018-12-31T00:00:00Z",
+                            "hometown": "広島県",
+                            "isVerified": false,
+                            "twitterId": "asunopolaris",
+                            "youtubeChannelId": "UCoyrUjE2OV3_M7Ch5LQvdTA",
+                            "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/ap-northeast-1:c015fd0e-ac86-426f-ba76-165aebc02781/B597D80F-3A40-4C07-BF42-2785DDD862A3.jpeg",
+                            "id": "53D41AB1-A5EE-41AC-BFB9-E7028AB11287"
+                        },
+                        {
+                            "biography": "",
+                            "name": "Lander",
+                            "youtubeChannelId": "UC47QQunoTXozTBAx_zWvamg",
+                            "isVerified": false,
+                            "twitterId": "_Lander_Band",
+                            "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC47QQunoTXozTBAx_zWvamg.jpeg",
+                            "id": "FE2032A5-FDB7-49E6-A138-542D4B279782"
+                        }
+                    ]
+                },
+                "id": "81439BE6-FC9E-443E-8EF2-342F97919D7B",
+                "date": "20211111",
+                "hostGroup": {
+                    "biography": "",
+                    "name": "Lander",
+                    "youtubeChannelId": "UC47QQunoTXozTBAx_zWvamg",
+                    "isVerified": false,
+                    "twitterId": "_Lander_Band",
+                    "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC47QQunoTXozTBAx_zWvamg.jpeg",
+                    "id": "FE2032A5-FDB7-49E6-A138-542D4B279782"
+                },
+                "startAt": "18:00",
+                "price": 5000,
+                "createdAt": "2021-11-04T15:42:25Z",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/17ceb9d90ce124.jpeg",
+                "openAt": "17:30",
+                "title": "類は、友を呼ぶ",
+                "liveHouse": "下北沢近松"
+            },
+            "participatingFriends": [],
+            "likeCount": 1
+        },
+        {
+            "hasTicket": false,
+            "participantCount": 0,
+            "isLiked": true,
+            "postCount": 0,
+            "live": {
+                "style": {
+                    "kind": "oneman",
+                    "value": {
+                        "biography": "",
+                        "name": "Hump Back",
+                        "youtubeChannelId": "UC9G6cVN89XFM5DCZGU8yn-Q",
+                        "isVerified": false,
+                        "twitterId": "_humpback_",
+                        "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9G6cVN89XFM5DCZGU8yn-Q.jpeg",
+                        "id": "4F6FEE28-17F9-48EB-B9E1-AABB881D3745"
+                    }
+                },
+                "hostGroup": {
+                    "name": "Hump Back",
+                    "biography": "",
+                    "youtubeChannelId": "UC9G6cVN89XFM5DCZGU8yn-Q",
+                    "isVerified": false,
+                    "twitterId": "_humpback_",
+                    "id": "4F6FEE28-17F9-48EB-B9E1-AABB881D3745",
+                    "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9G6cVN89XFM5DCZGU8yn-Q.jpeg"
+                },
+                "price": 5000,
+                "startAt": "18:00",
+                "id": "CA762FCA-ED34-4892-A8CC-9609073FE7B7",
+                "date": "20211128",
+                "openAt": "16:30",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/17c16675fb2393.jpeg",
+                "createdAt": "2021-09-24T06:04:07Z",
+                "title": "Hump Back pre. \"ACHATTER tour\" -2021-",
+                "liveHouse": "日本武道館"
+            },
+            "participatingFriends": [],
+            "likeCount": 1
+        },
+        {
+            "hasTicket": false,
+            "participantCount": 0,
+            "isLiked": true,
+            "postCount": 0,
+            "live": {
+                "style": {
+                    "kind": "oneman",
+                    "value": {
+                        "biography": "MY FIRST STORY Offcial YouTube Channel",
+                        "name": "MY FIRST STORY",
+                        "youtubeChannelId": "UCE721tjLVikhxeq-fW5hHGg",
+                        "isVerified": false,
+                        "twitterId": "MyFirstStory_of",
+                        "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCE721tjLVikhxeq-fW5hHGg.jpeg",
+                        "id": "C264747D-825C-4199-85CC-3FA5A8E36739"
+                    }
+                },
+                "id": "9723F085-76E8-4511-B9DC-5B476075FEEE",
+                "startAt": "19:00",
+                "date": "20220210",
+                "hostGroup": {
+                    "biography": "MY FIRST STORY Offcial YouTube Channel",
+                    "name": "MY FIRST STORY",
+                    "youtubeChannelId": "UCE721tjLVikhxeq-fW5hHGg",
+                    "isVerified": false,
+                    "twitterId": "MyFirstStory_of",
+                    "id": "C264747D-825C-4199-85CC-3FA5A8E36739",
+                    "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCE721tjLVikhxeq-fW5hHGg.jpeg"
+                },
+                "price": 5000,
+                "openAt": "17:30",
+                "title": "We promise, 4 you once again Tour 2021",
+                "createdAt": "2021-11-04T15:57:09Z",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/17cebab0962144.jpeg",
+                "liveHouse": "日本武道館"
+            },
+            "likeCount": 1,
+            "participatingFriends": []
+        },
+        {
+            "hasTicket": false,
+            "participantCount": 0,
+            "postCount": 0,
+            "isLiked": true,
+            "live": {
+                "style": {
+                    "kind": "oneman",
+                    "value": {
+                        "name": "THE ORAL CIGARETTES",
+                        "biography": "",
+                        "youtubeChannelId": "UC2-n_x0Xt_-wLdOilnp2m7A",
+                        "isVerified": false,
+                        "twitterId": "oral_official",
+                        "id": "4D0DD882-DBDA-4021-9971-10FF44BD83EF",
+                        "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC2-n_x0Xt_-wLdOilnp2m7A.jpeg"
+                    }
+                },
+                "startAt": "19:00",
+                "price": 5000,
+                "date": "20220323",
+                "id": "B8485E8A-32BF-485D-96EF-B04C3BD4399F",
+                "hostGroup": {
+                    "biography": "",
+                    "name": "THE ORAL CIGARETTES",
+                    "youtubeChannelId": "UC2-n_x0Xt_-wLdOilnp2m7A",
+                    "isVerified": false,
+                    "twitterId": "oral_official",
+                    "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC2-n_x0Xt_-wLdOilnp2m7A.jpeg",
+                    "id": "4D0DD882-DBDA-4021-9971-10FF44BD83EF"
+                },
+                "createdAt": "2021-11-04T15:44:58Z",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/17ceb9fe390156.jpeg",
+                "title": "Hall Tour 2022「SUCK MY WORLD」",
+                "openAt": "18:00",
+                "liveHouse": "東京ガーデンシアター"
+            },
+            "likeCount": 1,
+            "participatingFriends": []
+        }
+    ],
+    "followingGroups": [
+        {
+            "watchingCount": 0,
+            "isFollowing": true,
+            "group": {
+                "id": "5696E9E0-03FE-4A21-A4D4-D883FC148EA8",
+                "twitterId": "_fomare_",
+                "name": "FOMARE",
+                "youtubeChannelId": "UCO5kmsT9xpy-ADoWy0UQX1g",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCO5kmsT9xpy-ADoWy0UQX1g.jpeg"
+            },
+            "followersCount": 9
+        },
+        {
+            "watchingCount": 0,
+            "isFollowing": true,
+            "followersCount": 2,
+            "group": {
+                "id": "963A4F00-B593-4198-8E30-20A5AD0D3655",
+                "twitterId": "WOMCADOLE",
+                "name": "WOMCADOLE",
+                "youtubeChannelId": "UCMhqF72AY_Yf_8BiYpuwy_A",
+                "isVerified": false,
+                "biography": "滋賀4人組ロックバンドWOMCADOLE",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCMhqF72AY_Yf_8BiYpuwy_A.jpeg"
+            }
+        },
+        {
+            "watchingCount": 6,
+            "followersCount": 11,
+            "isFollowing": true,
+            "group": {
+                "id": "4D0DD882-DBDA-4021-9971-10FF44BD83EF",
+                "twitterId": "oral_official",
+                "name": "THE ORAL CIGARETTES",
+                "youtubeChannelId": "UC2-n_x0Xt_-wLdOilnp2m7A",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC2-n_x0Xt_-wLdOilnp2m7A.jpeg"
+            }
+        },
+        {
+            "watchingCount": 6,
+            "isFollowing": true,
+            "followersCount": 8,
+            "group": {
+                "id": "C264747D-825C-4199-85CC-3FA5A8E36739",
+                "twitterId": "MyFirstStory_of",
+                "name": "MY FIRST STORY",
+                "youtubeChannelId": "UCE721tjLVikhxeq-fW5hHGg",
+                "isVerified": false,
+                "biography": "MY FIRST STORY Offcial YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCE721tjLVikhxeq-fW5hHGg.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "isFollowing": true,
+            "group": {
+                "id": "3959582D-12C8-442C-8293-605E2E7A3B07",
+                "twitterId": "UVERworld_dR2",
+                "name": "UVERworld",
+                "youtubeChannelId": "UCnziFQs4Ihms4UtxmVZP6cg",
+                "isVerified": false,
+                "biography": "UVERworldのミュージックビデオが満載のオフィシャルチャンネルがスタート！",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCnziFQs4Ihms4UtxmVZP6cg.jpeg"
+            },
+            "followersCount": 7
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": true,
+            "group": {
+                "id": "4114873B-B502-48E3-ABD7-6C280BCB05B5",
+                "twitterId": "bishidol",
+                "name": "BiSH",
+                "youtubeChannelId": "UCkb6emsbTQEv8ve2dfnuVIA",
+                "isVerified": false,
+                "biography": "BiSH Official\n\n“The punk band that doesn’t play any instruments” consisting of AiNA THE END, CENTCHiHiRO\nCHiTTiii, MOMOKOGUMiCOMPANY, HASHiYASUME ATSUKO, LiNGLiNG, AYUNi D.\nThe band was founded in March 2015, and made a major debut with Avex Trax in May\n2",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCkb6emsbTQEv8ve2dfnuVIA.jpeg"
+            },
+            "followersCount": 3
+        },
+        {
+            "watchingCount": 6,
+            "isFollowing": true,
+            "followersCount": 34,
+            "group": {
+                "id": "1430393C-FFCE-4B4D-82D4-36732DB47FA8",
+                "twitterId": "04ls_nagoya",
+                "name": "04 Limited Sazabys",
+                "youtubeChannelId": "UC58v9fVYNYo5uVAlhUjPrkA",
+                "isVerified": false,
+                "biography": "04 Limited Sazabys Official YouTube Channel.\n\n2008年名古屋にて結成の4ピースロックバンド。\nメンバーはGEN（Ba/Vo）、HIROKAZ（Gt）、RYU-TA（Gt/Cho）、KOUHEI（Dr/Cho）\n2015年に1st Full Album『CAVU』をリリースしメジャー進出。2016年4月、バンド主催の野外フェス\"YON FES 2016\"を地元・愛知県で初開催。2017年には日本武道館公演を行い即日完売。2018年には結成10周年を迎え、東名阪",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC58v9fVYNYo5uVAlhUjPrkA.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "isFollowing": true,
+            "group": {
+                "id": "1E61EFA4-E544-4D4E-B83A-06BF3545DF4A",
+                "twitterId": "macarock0616",
+                "name": "マカロニえんぴつ",
+                "youtubeChannelId": "UCA_UP6PQndF0bE2sUGkCX0g",
+                "isVerified": false,
+                "biography": "2012年はっとり（Vo/Gt）を中心に神奈川県で結成。メンバー全員音大出身の\"全年齢対象ポップスロックバンド\"\nはっとりのエモーショナルな歌声と、キーボードの多彩な音色を組み合わせた壮大なバンドサウンドを武器に圧倒的なステージングを繰り広げる。「マカロックONLINEワンマン〜豊洲から愛を込めて〜」と題した無観客生配信ライブを2020年9月3日に開催し、トイズファクトリーからメジャー1st E.P.「愛を知らずに魔法は使えない」のメジャーリリースを発表した。\n全国にマカロックを響かせるべく都内を中心に活",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCA_UP6PQndF0bE2sUGkCX0g.jpeg"
+            },
+            "followersCount": 12
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": true,
+            "group": {
+                "id": "B0C9DA4B-A7D9-49B6-B86E-39D1E21B4190",
+                "twitterId": "PEDRO_AYUNiD",
+                "name": "PEDRO",
+                "youtubeChannelId": "UCMlScRSfqovXpcg447emv4A",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCMlScRSfqovXpcg447emv4A.jpeg"
+            },
+            "followersCount": 2
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 2,
+            "isFollowing": true,
+            "group": {
+                "id": "D4BBAA5A-18EB-467A-AA5D-046F1C88F1FE",
+                "twitterId": "SSTPofficial",
+                "name": "Survive Said The Prophet",
+                "youtubeChannelId": "UCZeseZDL_lAGF7ekWVITdbw",
+                "isVerified": false,
+                "biography": "Survive Said The Prophet\n\nSurvive Said The Prophet 通称「サバプロ」は2011年、東京にて結成。ネイティブな英語を操るバイリンガルのボーカリストYoshの圧倒的な歌唱力とカリスマ性を筆頭に、確かなスキル、ミュージシャンシップ、そして個性的なキャラクターを持った５人のメンバーからなる奇跡のインターナショナル・ロック・バンド。その異彩を放つ音楽性はロックに限らず、ポップ、エレクトロ、ヒップホップ、R&Bまで幅広いバックグラウンドをベースに、既存のシーンの枠に収",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCZeseZDL_lAGF7ekWVITdbw.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 8,
+            "group": {
+                "id": "711D7139-A67A-4E15-B74C-59489EE5E855",
+                "twitterId": "ELLEGARDEN_OFCL",
+                "name": "ELLEGARDEN",
+                "youtubeChannelId": "UC5CRHe4xL-hoQclcBzPb_mg",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC5CRHe4xL-hoQclcBzPb_mg.jpeg"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 1,
+            "isFollowing": true,
+            "followersCount": 1,
+            "group": {
+                "id": "6CD608E0-E2F4-4ECB-B8AF-5C39A45254F9",
+                "twitterId": "mwamjapan",
+                "name": "MAN WITH A MISSION",
+                "youtubeChannelId": "UCy21ToKvBD45wUPaSLkr5NQ",
+                "isVerified": false,
+                "biography": "MAN WITH A MISSION。通称MWAM。\n彼らは天才科学者ジミーヘンドリックスがこの世に残した、究極の生命体。\n『使命を持った男』があなたの街に、あのライブハウスに、あの国に。\n世界中に出没して、次なる『使命』を全うしにやってくる・・・\n\n MWAM was awaken from eternal sleep!\nAre they justice for this world? Or nothing else but evil?\n\"MAN WITH A MISSION\" is now back ",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCy21ToKvBD45wUPaSLkr5NQ.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "isFollowing": true,
+            "group": {
+                "id": "09BD8938-DFF0-4DDA-BB55-1A432AB444B7",
+                "twitterId": "karma_0527",
+                "name": "KALMA",
+                "youtubeChannelId": "UCDEFmVWz6OcJ7w0j4KIhTkw",
+                "isVerified": false,
+                "biography": "KALMA  Official YouTube Channel !!\n",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCDEFmVWz6OcJ7w0j4KIhTkw.jpeg"
+            },
+            "followersCount": 4
+        },
+        {
+            "watchingCount": 3,
+            "followersCount": 7,
+            "isFollowing": true,
+            "group": {
+                "id": "CFB7EAFC-0993-47D8-87ED-E8DFE2D9B656",
+                "twitterId": "BLUEN_official",
+                "name": "BLUE ENCOUNT",
+                "youtubeChannelId": "UCN1YNkQdGzJTtHZAQO7uxcQ",
+                "isVerified": false,
+                "biography": "田邊駿一（Vo. Gt.）、江口雄也（Gt.）、辻村勇太（Ba.）、高村佳秀（Dr.）による熊本発、都内在住4人組エモーショナルギターロックバンド。\n熱く激しくオーディエンスと一体になり、ダイレクトに感情をぶつける熱血なパフォーマンスが話題のエモーショナルロックバンド。2014年9月にEP『TIMELESS ROOKIE』でメジャーデビュー。\n2020年11月18日には4th Album『Q.E.D』をリリース！\n\nBLUE ENCOUNTオフィシャルサイト：http://blueencount.jp/",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCN1YNkQdGzJTtHZAQO7uxcQ.jpeg"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 11,
+            "isFollowing": true,
+            "group": {
+                "id": "1A1BCCFB-E0AA-461E-8C2E-504D144218DF",
+                "twitterId": "myhairisbad",
+                "name": "My Hair is Bad",
+                "youtubeChannelId": "UCYgA-dCbtiGdyIwadjcNgpg",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCYgA-dCbtiGdyIwadjcNgpg.jpeg"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 7,
+            "group": {
+                "id": "075F56BE-501A-456F-A2EF-3D787049AA14",
+                "twitterId": "AORINGOHUZIN",
+                "name": "Mrs. GREEN APPLE",
+                "youtubeChannelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+                "isVerified": false,
+                "biography": "Mrs. GREEN APPLE Official YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCpFgmZm65yOU5X-hmWkWjuw.jpeg"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 3,
+            "isFollowing": true,
+            "group": {
+                "id": "DF238B55-A107-401A-8755-28011C46EBC1",
+                "twitterId": "saucydog_offi",
+                "name": "Saucy Dog",
+                "youtubeChannelId": "UCs8nP5mUR3pwJmgixsul8Hw",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCs8nP5mUR3pwJmgixsul8Hw.jpeg"
+            },
+            "followersCount": 14
+        },
+        {
+            "watchingCount": 4,
+            "followersCount": 7,
+            "group": {
+                "id": "153DEDA8-5CAD-43C9-9E8A-8EF0CC86B346",
+                "twitterId": "SiM_Official",
+                "name": "SiM",
+                "youtubeChannelId": "UCcrvP_Z93Zts_Xd7UGKH2CQ",
+                "isVerified": false,
+                "biography": "SiM Official YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCcrvP_Z93Zts_Xd7UGKH2CQ.jpeg"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 8,
+            "group": {
+                "id": "53D41AB1-A5EE-41AC-BFB9-E7028AB11287",
+                "twitterId": "asunopolaris",
+                "name": "アスノポラリス",
+                "englishName": "asu no polaris",
+                "since": "2018-12-31T00:00:00Z",
+                "youtubeChannelId": "UCoyrUjE2OV3_M7Ch5LQvdTA",
+                "isVerified": false,
+                "biography": "落岩勇弥（Vo/Gt）の優しい歌声に乗せたバラードと、相反するように爆発的な楽曲が織り込まれたセットリストはライヴ会場を魅了し、会場限定配布1stデモ『アスノポラリス』は重版に。2020年8月に公開したミュージック・ビデオ「ラブソング」は、2週間で1.5万回再生を突破するなど注目を集める。\"自信の持てない日々にそっと寄り添える音楽を\"をコンセプトに活動中。\n",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/ap-northeast-1:c015fd0e-ac86-426f-ba76-165aebc02781/B597D80F-3A40-4C07-BF42-2785DDD862A3.jpeg",
+                "hometown": "広島県"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 2,
+            "followersCount": 14,
+            "isFollowing": true,
+            "group": {
+                "id": "B880757D-5447-4FF9-8F08-13F1F0E0C917",
+                "twitterId": "ONEOKROCK_japan",
+                "name": "ONE OK ROCK",
+                "youtubeChannelId": "UCzycs8MqvIY4nXWwS-v4J9g",
+                "isVerified": false,
+                "biography": "ONE OK ROCK Official Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCzycs8MqvIY4nXWwS-v4J9g.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 3,
+            "group": {
+                "id": "6CD8C8B7-EEA9-4E81-B2AF-A82390AC6006",
+                "twitterId": "MC_Thanksgiving",
+                "name": "Mr.Children",
+                "youtubeChannelId": "UCXteDRy5qB0IjA8WPusCJ7w",
+                "isVerified": false,
+                "biography": "Mr.Children Official YouTube Channel",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCXteDRy5qB0IjA8WPusCJ7w.jpeg"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 6,
+            "isFollowing": true,
+            "followersCount": 1,
+            "group": {
+                "id": "2FC4B055-BA77-46CF-AD49-D181B9B3F1C3",
+                "twitterId": "LiSA_OLiVE",
+                "name": "LiSA",
+                "youtubeChannelId": "UCqEfdEvLG5oQWNYlDQrGlKw",
+                "isVerified": false,
+                "biography": "アーティスト・LiSAのOfficial YouTubeチャンネル。\n2011年ソロデビュー。数々のアニメ主題歌・劇中歌を担当、全てのシングルが上位にランクインするヒットを連発。\nラウド系ロックからポップスまでを唄いこなす、変幻自在さが持ち味の音楽性は、アニメファンだけでなくロックファンからも大きな支持を得ており、数々のアニメフェス、ロックフェス共に出演するアーティストとして、確固たる存在感を発揮している。\n観客を興奮の渦に巻き込んで行く圧倒的なライブパフォーマンスは、海外でも高い評価を受けており、その活",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCqEfdEvLG5oQWNYlDQrGlKw.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 3,
+            "group": {
+                "id": "48E2AC63-E8F5-4F7C-B91F-4BEF33E8F64A",
+                "twitterId": "onomichi_ame",
+                "name": "アメノイロ。",
+                "youtubeChannelId": "UCG94QMdn636XCAhsGZQYR_g",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCG94QMdn636XCAhsGZQYR_g.jpeg"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": true,
+            "followersCount": 13,
+            "group": {
+                "id": "2F01E02F-AFF0-499D-BA6B-B296936C7204",
+                "twitterId": "RADWIMPS",
+                "name": "RADWIMPS",
+                "youtubeChannelId": "UCIVqvhyo8ttjYOmMJuhq_YQ",
+                "isVerified": false,
+                "biography": "Vocal / Guitar / Piano\n野田洋次郎　Yojiro Noda\nGuitar\n桑原彰　Akira Kuwahara\nBass\n武田祐介　Yusuke Takeda\nDrum\n山口智史　Satoshi Yamaguchi\n",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCIVqvhyo8ttjYOmMJuhq_YQ.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "isFollowing": true,
+            "followersCount": 7,
+            "group": {
+                "id": "4F6FEE28-17F9-48EB-B9E1-AABB881D3745",
+                "twitterId": "_humpback_",
+                "name": "Hump Back",
+                "youtubeChannelId": "UC9G6cVN89XFM5DCZGU8yn-Q",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9G6cVN89XFM5DCZGU8yn-Q.jpeg"
+            }
+        },
+        {
+            "watchingCount": 3,
+            "isFollowing": true,
+            "followersCount": 18,
+            "group": {
+                "id": "E5468585-37F3-49EA-944F-7E6200066CFA",
+                "twitterId": "takuma10feet",
+                "name": "10-FEET",
+                "youtubeChannelId": "UCmQakL41jbAhpQhqhyszF2g",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCmQakL41jbAhpQhqhyszF2g.jpeg"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 3,
+            "isFollowing": true,
+            "group": {
+                "id": "03374382-03FE-4D57-B70A-BA087376DBE5",
+                "twitterId": "wasureranneyo",
+                "name": "忘れらんねえよ",
+                "youtubeChannelId": "UC0gNnazizbOBRlYKDskJVZA",
+                "isVerified": false,
+                "biography": "忘れらんねえよのOfficial Channelです。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC0gNnazizbOBRlYKDskJVZA.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 4,
+            "isFollowing": true,
+            "group": {
+                "id": "A3C6B599-683C-4B79-BE50-05CBFD90D9DE",
+                "twitterId": "143_143official",
+                "name": "143∽",
+                "youtubeChannelId": "UCp5yBv4OdRN-lj4G9v6bAvw",
+                "isVerified": false,
+                "biography": "143とかいて \"I Love You\"の意味がある…\n愛こそ全て 『LOVE IS LIFE』を掲げ\n\"愛と情熱\"のエモーショナルロックアイドル\n\n143∽公式チャンネルです。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCp5yBv4OdRN-lj4G9v6bAvw.jpeg"
+            }
+        },
+        {
+            "watchingCount": 1,
+            "followersCount": 1,
+            "isFollowing": true,
+            "group": {
+                "id": "0F28338D-7FBE-4671-B73D-3F3515A88329",
+                "twitterId": "MOSHIMO_BAND",
+                "name": "MOSHIMO",
+                "youtubeChannelId": "UCuyPn5fn_i7CCBbxfE6MMWA",
+                "isVerified": false,
+                "biography": "“女心の光と闇”を独特の語感でカラフルに描く歌詞、可愛くもパワフルな歌声、ポップながら骨太なロック・サウンドで、若者を中心に人気の新世代ギターロックバンド MOSHIMOのオフィシャルアカウント。",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCuyPn5fn_i7CCBbxfE6MMWA.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 13,
+            "isFollowing": true,
+            "group": {
+                "id": "058B979F-534A-49D7-84F1-EAD70BE0DDC9",
+                "twitterId": "alexandroscrew",
+                "name": "[ALEXANDROS]",
+                "youtubeChannelId": "UCjIHV9sLF2yrYH2ClgPAzSg",
+                "isVerified": false,
+                "biography": "[Alexandros]\n\n■Band members\nYoohei Kawakami (川上 洋平, born June 22, 1982) — vocals, guitar\nHiroyuki Isobe (磯部 寛之, born December 29, 1982) — bass guitar, backing vocals\nMasaki Shirai (白井 眞輝, born December 12, 1982) — guitar\nSatoyasu Shomura (庄村 聡泰, born Marc",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCjIHV9sLF2yrYH2ClgPAzSg.jpeg"
+            }
+        },
+        {
+            "watchingCount": 4,
+            "followersCount": 3,
+            "group": {
+                "id": "ED09D368-5404-4364-BF8D-DF0792AAC9B5",
+                "twitterId": "Falilv",
+                "name": "Fear, and Loathing in Las Vegas",
+                "youtubeChannelId": "UC9rdhKjcQ-GhrG0dL1BQg0g",
+                "isVerified": false,
+                "biography": "Fear, and Loathing in Las Vegas is a Japanese electronicore band from Kobe that was formed in summer 2008. The band currently consists of vocalist So, keyboardist Minami, guitarist Taiki, drummer Tomonori, and bassist Tetsuya. They are best known for thei",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9rdhKjcQ-GhrG0dL1BQg0g.jpeg"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 6,
+            "isFollowing": true,
+            "group": {
+                "id": "81F31118-860C-49DC-A93D-A0594C03259F",
+                "twitterId": "2_band_official",
+                "name": "2",
+                "youtubeChannelId": "UCkAngdZueAIOGfnMRJWgGmA",
+                "isVerified": false,
+                "biography": "【2021年2の日に4周年記念ワンマンライブ開催決定】\n古舘佑太郎率いる3ピースバンド、2(ツー)が、恒例ワンマン・ライブとして打ち出している「2の日」。\n2021年2月2日(火)に心斎橋MUSIC CLUB JANUS、2021年2月22日(月)に渋谷CLUB QUATTROにて開催が決定！\n2020年は前代未聞となる、一日3本ワンマンライブ\"限界突破\"を乗り越え、更なる高みを目指す2。\n2021年は新たなる2を目撃することになるだろう。\n",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCkAngdZueAIOGfnMRJWgGmA.jpeg"
+            }
+        }
+    ],
+    "recentlyFollowingGroups": [
+        {
+            "watchingCount": 3,
+            "isFollowing": true,
+            "group": {
+                "id": "DF238B55-A107-401A-8755-28011C46EBC1",
+                "twitterId": "saucydog_offi",
+                "name": "Saucy Dog",
+                "youtubeChannelId": "UCs8nP5mUR3pwJmgixsul8Hw",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCs8nP5mUR3pwJmgixsul8Hw.jpeg"
+            },
+            "followersCount": 14
+        },
+        {
+            "watchingCount": 0,
+            "isFollowing": true,
+            "followersCount": 7,
+            "group": {
+                "id": "4F6FEE28-17F9-48EB-B9E1-AABB881D3745",
+                "twitterId": "_humpback_",
+                "name": "Hump Back",
+                "youtubeChannelId": "UC9G6cVN89XFM5DCZGU8yn-Q",
+                "isVerified": false,
+                "biography": "",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC9G6cVN89XFM5DCZGU8yn-Q.jpeg"
+            }
+        },
+        {
+            "watchingCount": 0,
+            "followersCount": 8,
+            "group": {
+                "id": "53D41AB1-A5EE-41AC-BFB9-E7028AB11287",
+                "twitterId": "asunopolaris",
+                "name": "アスノポラリス",
+                "since": "2018-12-31T00:00:00Z",
+                "englishName": "asu no polaris",
+                "youtubeChannelId": "UCoyrUjE2OV3_M7Ch5LQvdTA",
+                "isVerified": false,
+                "biography": "落岩勇弥（Vo/Gt）の優しい歌声に乗せたバラードと、相反するように爆発的な楽曲が織り込まれたセットリストはライヴ会場を魅了し、会場限定配布1stデモ『アスノポラリス』は重版に。2020年8月に公開したミュージック・ビデオ「ラブソング」は、2週間で1.5万回再生を突破するなど注目を集める。\"自信の持てない日々にそっと寄り添える音楽を\"をコンセプトに活動中。\n",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/ap-northeast-1:c015fd0e-ac86-426f-ba76-165aebc02781/B597D80F-3A40-4C07-BF42-2785DDD862A3.jpeg",
+                "hometown": "広島県"
+            },
+            "isFollowing": true
+        },
+        {
+            "watchingCount": 2,
+            "isFollowing": true,
+            "group": {
+                "id": "D4BBAA5A-18EB-467A-AA5D-046F1C88F1FE",
+                "twitterId": "SSTPofficial",
+                "name": "Survive Said The Prophet",
+                "youtubeChannelId": "UCZeseZDL_lAGF7ekWVITdbw",
+                "isVerified": false,
+                "biography": "Survive Said The Prophet\n\nSurvive Said The Prophet 通称「サバプロ」は2011年、東京にて結成。ネイティブな英語を操るバイリンガルのボーカリストYoshの圧倒的な歌唱力とカリスマ性を筆頭に、確かなスキル、ミュージシャンシップ、そして個性的なキャラクターを持った５人のメンバーからなる奇跡のインターナショナル・ロック・バンド。その異彩を放つ音楽性はロックに限らず、ポップ、エレクトロ、ヒップホップ、R&Bまで幅広いバックグラウンドをベースに、既存のシーンの枠に収",
+                "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UCZeseZDL_lAGF7ekWVITdbw.jpeg"
+            },
+            "followersCount": 2
+        }
+    ]
+}

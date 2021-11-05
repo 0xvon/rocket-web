@@ -5,39 +5,34 @@ import { Formik } from "formik"
 import * as Yup from "yup"
 
 interface Props {
-    submitAction: (videoUrl: string) => void
+    submitAction: (username: string) => void
     isLoading: boolean
 }
 
 interface FormValues {
-    videoUrl: string
+    username: string
 }
 
 export const Component = (props: Props) => {
     const formSchema = Yup.object().shape({
-        videoUrl: Yup.string()
-            .required("URLが入力されていません")
-            .matches(
-                /((https?):\/\/)?(www.)?[a-z0-9]+(\.[a-z]{2,}){1,3}(#?\/?[a-zA-Z0-9#]+)*\/?(\?[a-zA-Z0-9-_]+=[a-zA-Z0-9-%_]+&?)?$/,
-                "正しいURLを入力してください"
-            )
-            .matches(
-                /youtube.com\/watch\?v=/,
-                "youtube.com/v=xxxという形式のURLを入力してください"
-            ),
+        username: Yup.string().required("入力されていません"),
+        // .matches(
+        //     /^[a-zA-Z0-9_\-.]{1,12}$/,
+        //     "正しいユーザーネームを入力してください"
+        // ),
     })
     const onSubmit = async (values: FormValues) => {
-        props.submitAction(values.videoUrl)
+        props.submitAction(values.username)
     }
 
     return (
         <Formik
             initialValues={{
-                videoUrl: "",
+                username: "",
             }}
             validationSchema={formSchema}
-            onSubmit={async (values) => {
-                await onSubmit(values)
+            onSubmit={async (username) => {
+                await onSubmit(username)
             }}
             enableReinitialize={true}
         >
@@ -51,12 +46,18 @@ export const Component = (props: Props) => {
                     spacing={6}
                     margin="24px auto"
                 >
-                    <InputControl name="videoUrl" label="動画URL" />
+                    <InputControl
+                        id="hoge"
+                        name="username"
+                        label="ユーザーネーム"
+                        borderColor="#E4472A"
+                    />
                     <SubmitButton
                         isLoading={props.isLoading}
                         colorScheme="green"
+                        backgroundColor="#E4472A"
                     >
-                        開始
+                        検索
                     </SubmitButton>
                 </Stack>
             )}
