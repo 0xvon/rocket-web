@@ -3,7 +3,7 @@ import Router from "next/router"
 import Head from "next/head"
 import { SearchForm } from "../components"
 import { Flex } from "@chakra-ui/react"
-import { Header } from "../components"
+import { Header, JumpToAppButton } from "../components"
 
 const Home: NextPage = () => {
     const submitTapped = (username: string) => {
@@ -31,6 +31,7 @@ const Home: NextPage = () => {
                     submitAction={submitTapped}
                 />
             </Flex>
+            <JumpToAppButton.Component />
         </div>
     )
 }

@@ -4,6 +4,7 @@ export * as Common from "./common"
 export * as UserInfo from "./UserInfo"
 
 export * as Header from "./Header/Header"
+export * as JumpToAppButton from "./JumpToAppButton/JumpToAppButton"
 
 export * as CustomImage from "./Atom/CustomImage"
 export * as CustomText from "./Atom/CustomText"

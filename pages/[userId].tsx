@@ -3,7 +3,13 @@ import { useRouter } from "next/router"
 import { useState, useEffect } from "react"
 import { Domain, APIClient } from "../core"
 import Head from "next/head"
-import { Header, UserInfo, UserProfile, UserStats } from "../components"
+import {
+    Header,
+    UserInfo,
+    UserProfile,
+    UserStats,
+    JumpToAppButton,
+} from "../components"
 import { Box } from "@chakra-ui/react"
 
 const User: NextPage = () => {
@@ -47,6 +53,8 @@ const User: NextPage = () => {
                             }
                         />
                     </Box>
+                    <Box height="120px" />
+                    <JumpToAppButton.Component />
                 </div>
             ) : (
                 <></>
