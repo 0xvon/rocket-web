@@ -1,5 +1,5 @@
 import { Domain } from "../../core"
-import { Box, Flex } from "@chakra-ui/react"
+import { Flex } from "@chakra-ui/react"
 import { Line } from "react-chartjs-2"
 import { CustomText, StatsSummary, theme } from "../"
 
@@ -16,23 +16,20 @@ export const Component = (props: Props) => {
                 bold={true}
                 m="0 0 20px 0"
             />
-            <Box>
-                <Line
-                    data={{
-                        labels: props.liveTransition.yearLabel,
-                        datasets: [
-                            {
-                                data: props.liveTransition
-                                    .liveParticipatingCount,
-                                backgroundColor: theme.color.brand.primary,
-                                borderColor: theme.color.brand.primary,
-                                borderWidth: 4,
-                                label: "今までのライブ参戦数",
-                            },
-                        ],
-                    }}
-                />
-            </Box>
+            <Line
+                data={{
+                    labels: props.liveTransition.yearLabel,
+                    datasets: [
+                        {
+                            data: props.liveTransition.liveParticipatingCount,
+                            backgroundColor: theme.color.brand.primary,
+                            borderColor: theme.color.brand.primary,
+                            borderWidth: 4,
+                            label: "今までのライブ参戦数",
+                        },
+                    ],
+                }}
+            />
             <Flex direction="row" m="20px 0">
                 <StatsSummary.Component
                     width="50%"

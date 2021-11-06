@@ -6,6 +6,7 @@ interface Props {
     color?: string
     bold: boolean
     m?: string | string[]
+    height?: string | string[]
 }
 
 export const Component = (props: Props) => {
@@ -24,6 +25,8 @@ export const Component = (props: Props) => {
 
     return (
         <Text
+            overflowY="hidden"
+            height={props.height}
             color={props.color}
             fontSize={fontSize()}
             fontWeight={props.bold ? "bold" : "medium"}

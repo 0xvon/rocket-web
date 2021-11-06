@@ -1,5 +1,6 @@
 import { Domain } from "../../core"
 import * as LiveTransition from "./LiveTransition"
+import * as FrequentlyWatchingGroups from "./FrequentlyWatchingGroups"
 import { Box } from "@chakra-ui/react"
 
 interface Props {
@@ -11,6 +12,9 @@ export const Component = (props: Props) => {
     return (
         <Box>
             <LiveTransition.Component liveTransition={props.liveTransition} />
+            <FrequentlyWatchingGroups.Component
+                groups={props.frequentlyWatchingGroups.slice(0, 3)}
+            />
         </Box>
     )
 }

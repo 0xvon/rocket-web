@@ -20,7 +20,7 @@ export const Component = (props: Props) => {
                     width={props.width}
                     m={props.m}
                     borderRadius={props.radius}
-                    borderColor={props.border}
+                    border={props.border}
                 />
             ) : (
                 <Box
@@ -29,7 +29,7 @@ export const Component = (props: Props) => {
                     width={props.width}
                     m={props.m}
                     borderRadius={props.radius}
-                    borderColor={props.border}
+                    border={props.border}
                 />
             )}
         </>
