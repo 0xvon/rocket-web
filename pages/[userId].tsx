@@ -9,18 +9,26 @@ import {
     UserProfile,
     UserStats,
     JumpToAppButton,
+    CustomText,
 } from "../components"
-import { Box } from "@chakra-ui/react"
+import { Box, Spinner, Flex } from "@chakra-ui/react"
 
 const User: NextPage = () => {
     const router = useRouter()
     const [profile, setProfile] = useState<Domain.UserProfile | undefined>()
+    const [isLoading, setIsLoading] = useState<boolean>(true)
     const userId = router.query.userId as string
+    const title = "OTOAKA | ライブへの熱意を可視化する"
+    const description =
+        "OTOAKAはライブ好きのためのSNSです。アプリで作成したプロフィールをwebでシェアすることができます。"
+    const ogp =
+        "https://rocket-auth-storage.s3.ap-northeast-1.amazonaws.com/assets/public/otoaka.png"
 
     useEffect(() => {
         const getProfile = async () => {
-            // const profile = await APIClient.getUserProfile(userId)
-            const profile = APIClient.getUserProfileMock() // mock
+            const profile = await APIClient.getUserProfile(userId)
+            // const profile = APIClient.getUserProfileMock() // mock
+            setIsLoading(false)
             setProfile(profile)
         }
         getProfile()
@@ -29,8 +37,34 @@ const User: NextPage = () => {
     return (
         <div>
             <Head>
-                <title>OTOAKA</title>
-                <meta name="description" content="OTOAKA" />
+                <title>OTOAKA | ライブへの熱意を可視化する</title>
+                <meta name="description" content={description} />
+                <meta
+                    property="og:title"
+                    content={profile?.user.name ?? title}
+                />
+                <meta property="og:type" content="website" />
+                <meta
+                    property="og:site_name"
+                    content={profile?.user.name ?? title}
+                />
+                <meta
+                    property="og:image"
+                    content={profile?.user.thumbnailURL ?? ogp}
+                />
+                <meta property="og:description" content={description} />
+                <meta property="fb:app_id" content="@masato" />
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:site" content="@masatojames" />
+                <meta
+                    name="twitter:image"
+                    content={profile?.user.thumbnailURL ?? ogp}
+                />
+                <meta
+                    name="twitter:title"
+                    content={profile?.user.name ?? title}
+                />
+                <meta name="twitter:description" content={description} />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <Header.Component />
@@ -56,8 +90,18 @@ const User: NextPage = () => {
                     <Box height="120px" />
                     <JumpToAppButton.Component />
                 </div>
+            ) : isLoading ? (
+                <Flex justify="center" align="center">
+                    <Spinner m="auto" />
+                </Flex>
             ) : (
-                <></>
+                <Flex justify="center" align="center">
+                    <CustomText.Component
+                        text="ユーザーが見つかりませんでした"
+                        type="large"
+                        bold={true}
+                    />
+                </Flex>
             )}
         </div>
     )
