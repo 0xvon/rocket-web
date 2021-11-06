@@ -18,7 +18,6 @@ const User: NextPage = () => {
     const [profile, setProfile] = useState<Domain.UserProfile | undefined>()
     const [isLoading, setIsLoading] = useState<boolean>(true)
     const userId = router.query.userId as string
-    const title = "OTOAKA | ライブへの熱意を可視化する"
     const description =
         "OTOAKAはライブ好きのためのSNSです。アプリで作成したプロフィールをwebでシェアすることができます。"
     const ogp =
@@ -39,31 +38,16 @@ const User: NextPage = () => {
             <Head>
                 <title>OTOAKA | ライブへの熱意を可視化する</title>
                 <meta name="description" content={description} />
-                <meta
-                    property="og:title"
-                    content={profile?.user.name ?? title}
-                />
+                <meta property="og:title" content={userId} />
                 <meta property="og:type" content="website" />
-                <meta
-                    property="og:site_name"
-                    content={profile?.user.name ?? title}
-                />
-                <meta
-                    property="og:image"
-                    content={profile?.user.thumbnailURL ?? ogp}
-                />
+                <meta property="og:site_name" content={userId} />
+                <meta property="og:image" content={ogp} />
                 <meta property="og:description" content={description} />
                 <meta property="fb:app_id" content="@masato" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:site" content="@masatojames" />
-                <meta
-                    name="twitter:image"
-                    content={profile?.user.thumbnailURL ?? ogp}
-                />
-                <meta
-                    name="twitter:title"
-                    content={profile?.user.name ?? title}
-                />
+                <meta name="twitter:image" content={ogp} />
+                <meta name="twitter:title" content={userId} />
                 <meta name="twitter:description" content={description} />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
