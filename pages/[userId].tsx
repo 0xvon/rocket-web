@@ -3,7 +3,7 @@ import { useRouter } from "next/router"
 import { useState, useEffect } from "react"
 import { Domain, APIClient } from "../core"
 import Head from "next/head"
-import { Header, UserInfo, UserProfile } from "../components"
+import { Header, UserInfo, UserProfile, UserStats } from "../components"
 import { Box } from "@chakra-ui/react"
 
 const User: NextPage = () => {
@@ -32,13 +32,19 @@ const User: NextPage = () => {
             {profile ? (
                 <div>
                     <UserInfo.Component user={profile.user} />
-                    <Box m="0 20px">
+                    <Box m={["0 20px", "0 auto"]} maxWidth="700px">
                         <UserProfile.Component
                             recentlyFollowingGroups={
                                 profile.recentlyFollowingGroups
                             }
                             followingGroups={profile.followingGroups}
                             liveSchedule={profile.liveSchedule}
+                        />
+                        <UserStats.Component
+                            liveTransition={profile.transition}
+                            frequentlyWatchingGroups={
+                                profile.frequentlyWatchingGroups
+                            }
                         />
                     </Box>
                 </div>

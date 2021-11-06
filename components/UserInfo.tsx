@@ -1,6 +1,6 @@
-import { Domain } from "../../core"
+import { Domain } from "../core"
 import { Box, Flex } from "@chakra-ui/react"
-import { CustomImage, CustomText, Tag, theme } from "../"
+import { CustomImage, CustomText, Tag, theme } from "."
 
 interface Props {
     user: Domain.User
@@ -13,7 +13,7 @@ export const Component = (props: Props) => {
             .join("・")
     }
     return (
-        <Flex m="20px">
+        <Flex m={["20px", "20px auto"]} maxWidth="700px">
             <CustomImage.Component
                 src={props.user.thumbnailURL}
                 width={["60px", "150px"]}

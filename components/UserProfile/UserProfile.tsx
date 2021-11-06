@@ -1,5 +1,7 @@
 import { Domain } from "../../core"
-import { RecentlyFollowingGroups, FollowingGroups, LiveSchedule } from "../"
+import * as RecentlyFollowingGroups from "./RecentlyFollowingGroups"
+import * as FollowingGroups from "./FollowingGroups"
+import * as LiveSchedule from "./LiveSchedule"
 import { Box } from "@chakra-ui/react"
 
 interface Props {
