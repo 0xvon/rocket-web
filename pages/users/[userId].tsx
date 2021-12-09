@@ -50,6 +50,10 @@ const User: NextPage = () => {
                 <meta name="twitter:image" content={ogp} />
                 <meta name="twitter:title" content={title} />
                 <meta name="twitter:description" content={description} />
+                <meta
+                    name="apple-itunes-app"
+                    content="app-id=1550896325, app-argument=https://wall-of-death.com/otoaka"
+                />
                 <link rel="icon" href="/favicon.ico" />
                 <link
                     rel="apple-app-site-association"
