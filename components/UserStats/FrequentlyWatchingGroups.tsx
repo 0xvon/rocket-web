@@ -82,6 +82,7 @@ const WatchingGroupCell = (props: WatchingCellProps) => {
                 radius="16px"
                 width="100%"
                 height={height()}
+                maxHeight="360px"
             />
             <CustomText.Component
                 height="20px"

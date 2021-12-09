@@ -3,6 +3,7 @@ import { Box, Image } from "@chakra-ui/react"
 interface Props {
     src?: string | null
     height?: string | string[]
+    maxHeight?: string | string[]
     width?: string | string[]
     m?: string | string[]
     radius?: string | string[]
@@ -17,6 +18,7 @@ export const Component = (props: Props) => {
                     src={props.src}
                     alt="custom image"
                     height={props.height}
+                    maxHeight={props.maxHeight}
                     width={props.width}
                     m={props.m}
                     borderRadius={props.radius}

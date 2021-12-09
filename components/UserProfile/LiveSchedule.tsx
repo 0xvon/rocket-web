@@ -82,14 +82,14 @@ const LiveScheduleCardCell = (props: CellProps) => {
             <Box width="10vw">
                 {props.order !== "first" ? (
                     <Box
-                        width="2vw"
+                        width="5px"
                         m="0 auto"
                         height="60px"
                         backgroundColor={theme.color.brand.primary}
                     />
                 ) : (
                     <Box
-                        width="2vw"
+                        width="5px"
                         m="0 auto"
                         height="60px"
                         backgroundColor="black"
@@ -98,6 +98,8 @@ const LiveScheduleCardCell = (props: CellProps) => {
                 <Flex
                     width="10vw"
                     height="10vw"
+                    maxWidth="80px"
+                    maxHeight="80px"
                     borderRadius="5vw"
                     justify="center"
                     align="center"
@@ -120,14 +122,14 @@ const LiveScheduleCardCell = (props: CellProps) => {
                 </Flex>
                 {props.order !== "last" ? (
                     <Box
-                        width="2vw"
+                        width="5px"
                         m="0 auto"
                         height="60px"
                         backgroundColor={theme.color.brand.primary}
                     />
                 ) : (
                     <Box
-                        width="2vw"
+                        width="5px"
                         m="0 auto"
                         height="60px"
                         backgroundColor="black"
@@ -149,10 +151,10 @@ const LiveScheduleCardCell = (props: CellProps) => {
                 borderWidth="1px"
                 borderColor="#909090"
                 maxHeight="120px"
-                overflow="hidden"
+                overflow="scroll"
             >
                 <Box
-                    padding="16px"
+                    padding="8px"
                     backgroundColor="rgba(0, 0, 0, 0.5)"
                     borderRadius="16px"
                 >
