@@ -36,6 +36,7 @@ const Home: NextPage = () => {
                 />
 
                 <link rel="icon" href="/favicon.ico" />
+                <link rel="apple-touch-icon" href="/favicon.ico" />
                 <link
                     rel="apple-app-site-association"
                     href="/apple-app-site-association"
