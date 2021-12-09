@@ -1,7 +1,7 @@
 import type { NextPage } from "next"
 import { useRouter } from "next/router"
 import { useState, useEffect } from "react"
-import { Domain, APIClient } from "../core"
+import { Domain, APIClient } from "../../core"
 import Head from "next/head"
 import {
     Header,
@@ -10,7 +10,7 @@ import {
     UserStats,
     JumpToAppButton,
     CustomText,
-} from "../components"
+} from "../../components"
 import { Box, Spinner, Flex } from "@chakra-ui/react"
 
 const User: NextPage = () => {

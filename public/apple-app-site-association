@@ -4,7 +4,7 @@
         "details": {
             "42H4TC9UM5.band.rocketfor": {
                 "paths": [
-                    "/app/*"
+                    "*"
                 ]
             }
         }

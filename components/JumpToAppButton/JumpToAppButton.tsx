@@ -1,10 +1,17 @@
 import { Link, Image } from "@chakra-ui/react"
 import app_store_badge from "./appstore_badge.png"
 
-export const Component = () => {
+interface Props {
+    href?: string
+}
+
+export const Component = (props: Props) => {
     return (
         <Link
-            href="https://apps.apple.com/jp/app/rocket-for-bands-ii/id1550896325"
+            href={
+                props.href ??
+                "https://apps.apple.com/jp/app/rocket-for-bands-ii/id1550896325"
+            }
             _hover={{ opacity: 0.6 }}
             position="fixed"
             bottom="16px"

@@ -7,7 +7,7 @@ import { Header, JumpToAppButton } from "../components"
 
 const Home: NextPage = () => {
     const submitTapped = (username: string) => {
-        Router.push("/" + username)
+        Router.push("/users/" + username)
     }
     const title = "OTOAKA | ライブへの熱意を可視化する"
     const description =
