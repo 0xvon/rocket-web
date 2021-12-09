@@ -1,14 +1,10 @@
 import type { NextPage } from "next"
-import Router from "next/router"
 import Head from "next/head"
-import { SearchForm } from "../components"
-import { Flex } from "@chakra-ui/react"
-import { Header, JumpToAppButton } from "../components"
+import { Header, CustomText } from "../../components"
+import { Link, Image, Flex } from "@chakra-ui/react"
+import app_store_badge from "../../components/JumpToAppButton/appstore_badge.png"
 
-const Home: NextPage = () => {
-    const submitTapped = (username: string) => {
-        Router.push("/" + username)
-    }
+const AppPage: NextPage = () => {
     const title = "OTOAKA | ライブへの熱意を可視化する"
     const description =
         "OTOAKAはライブ好きのためのSNSです。アプリで作成したプロフィールをwebでシェアすることができます。"
@@ -37,22 +33,29 @@ const Home: NextPage = () => {
                 />
             </Head>
             <Header.Component />
-            <Flex
-                direction="column"
-                align="center"
-                justify="center"
-                m="20px auto"
-                fontSize="4xl"
-                fontWeight="700"
-            >
-                <SearchForm.Component
-                    isLoading={false}
-                    submitAction={submitTapped}
+            <Flex direction="column" justify="center" align="center">
+                <CustomText.Component
+                    text="アプリをインストールしよう！"
+                    type="xlarge"
+                    bold={true}
                 />
+                <Link
+                    href="https://apps.apple.com/jp/app/rocket-for-bands-ii/id1550896325"
+                    _hover={{ opacity: 0.6 }}
+                    target="_blank"
+                    marginTop="20px"
+                >
+                    <Image
+                        src={app_store_badge.src}
+                        width="300px"
+                        alt="apple logo"
+                        border="1px solid #909090"
+                        borderRadius="16px"
+                    />
+                </Link>
             </Flex>
-            <JumpToAppButton.Component />
         </div>
     )
 }
 
-export default Home
+export default AppPage

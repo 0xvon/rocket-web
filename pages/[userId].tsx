@@ -51,6 +51,10 @@ const User: NextPage = () => {
                 <meta name="twitter:title" content={title} />
                 <meta name="twitter:description" content={description} />
                 <link rel="icon" href="/favicon.ico" />
+                <link
+                    rel="apple-app-site-association"
+                    href="/apple-app-site-association"
+                />
             </Head>
             <Header.Component />
 
