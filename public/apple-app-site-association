@@ -1,12 +1,13 @@
 {
     "applinks": {
         "apps": [],
-        "details": {
-            "42H4TC9UM5.band.rocketfor": {
+        "details": [
+            {
+                "appID": "42H4TC9UM5.band.rocketfor",
                 "paths": [
                     "*"
                 ]
             }
-        }
+        ]
     }
 }

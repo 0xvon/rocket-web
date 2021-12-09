@@ -35,6 +35,7 @@ const AppPage: NextPage = () => {
                 <link
                     rel="apple-app-site-association"
                     href="/apple-app-site-association"
+                    type="application/json"
                 />
             </Head>
             <Header.Component />
