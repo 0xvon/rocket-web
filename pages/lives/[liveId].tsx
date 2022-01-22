@@ -19,8 +19,8 @@ const Live: NextPage = () => {
 
     useEffect(() => {
         const getLive = async () => {
-            // const liveInfo = await APIClient.getLiveInfo(liveId)
-            const liveInfo = APIClient.getLiveInfoMock() // mock
+            const liveInfo = await APIClient.getLiveInfo(liveId)
+            // const liveInfo = APIClient.getLiveInfoMock() // mock
             setIsLoading(false)
             setLiveInfo(liveInfo)
         }
@@ -60,22 +60,6 @@ const Live: NextPage = () => {
             {liveInfo ? (
                 <div>
                     <LiveInfo.Component liveInfo={liveInfo} />
-
-                    {/* <Box m={["0 20px", "0 auto"]} maxWidth="700px">
-                        <UserProfile.Component
-                            recentlyFollowingGroups={
-                                profile.recentlyFollowingGroups
-                            }
-                            followingGroups={profile.followingGroups}
-                            liveSchedule={profile.liveSchedule}
-                        />
-                        <UserStats.Component
-                            liveTransition={profile.transition}
-                            frequentlyWatchingGroups={
-                                profile.frequentlyWatchingGroups
-                            }
-                        />
-                    </Box> */}
                     <Box height="120px" />
                     <JumpToAppButton.Component />
                 </div>
