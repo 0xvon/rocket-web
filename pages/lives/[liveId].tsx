@@ -60,6 +60,7 @@ const Live: NextPage = () => {
             {liveInfo ? (
                 <div>
                     <LiveInfo.Component liveInfo={liveInfo} />
+
                     {/* <Box m={["0 20px", "0 auto"]} maxWidth="700px">
                         <UserProfile.Component
                             recentlyFollowingGroups={

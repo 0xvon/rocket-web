@@ -33,7 +33,7 @@ export const Component = (props: Props) => {
                 backgroundPosition="center"
                 backgroundRepeat="no-repeat"
                 backgroundSize="cover"
-                m={["0", "0 auto"]}
+                m={["0 auto 20px", "0 auto 28px"]}
                 width="100vw"
                 maxWidth="700px"
                 height={["200px", "350px"]}
