@@ -1,0 +1,49 @@
+{
+    "live": {
+        "style": {
+            "kind": "festival",
+            "value": [
+                {
+                    "name": "アスノポラリス",
+                    "biography": "落岩勇弥（Vo/Gt）の優しい歌声に乗せたバラードと、相反するように爆発的な楽曲が織り込まれたセットリストはライヴ会場を魅了し、会場限定配布1stデモ『アスノポラリス』は重版に。2020年8月に公開したミュージック・ビデオ「ラブソング」は、2週間で1.5万回再生を突破するなど注目を集める。\"自信の持てない日々にそっと寄り添える音楽を\"をコンセプトに活動中。\n",
+                    "englishName": "asu no polaris",
+                    "since": "2018-12-31T00:00:00Z",
+                    "hometown": "広島県",
+                    "isVerified": false,
+                    "twitterId": "asunopolaris",
+                    "youtubeChannelId": "UCoyrUjE2OV3_M7Ch5LQvdTA",
+                    "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/ap-northeast-1:c015fd0e-ac86-426f-ba76-165aebc02781/B597D80F-3A40-4C07-BF42-2785DDD862A3.jpeg",
+                    "id": "53D41AB1-A5EE-41AC-BFB9-E7028AB11287"
+                },
+                {
+                    "biography": "",
+                    "name": "Lander",
+                    "youtubeChannelId": "UC47QQunoTXozTBAx_zWvamg",
+                    "isVerified": false,
+                    "twitterId": "_Lander_Band",
+                    "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC47QQunoTXozTBAx_zWvamg.jpeg",
+                    "id": "FE2032A5-FDB7-49E6-A138-542D4B279782"
+                }
+            ]
+        },
+        "id": "81439BE6-FC9E-443E-8EF2-342F97919D7B",
+        "date": "20211111",
+        "hostGroup": {
+            "biography": "",
+            "name": "Lander",
+            "youtubeChannelId": "UC47QQunoTXozTBAx_zWvamg",
+            "isVerified": false,
+            "twitterId": "_Lander_Band",
+            "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/UC47QQunoTXozTBAx_zWvamg.jpeg",
+            "id": "FE2032A5-FDB7-49E6-A138-542D4B279782"
+        },
+        "startAt": "18:00",
+        "price": 5000,
+        "createdAt": "2021-11-04T15:42:25Z",
+        "artworkURL": "https://rocket-auth-storage.s3-ap-northeast-1.amazonaws.com/assets/imported/17ceb9d90ce124.jpeg",
+        "openAt": "17:30",
+        "title": "類は、友を呼ぶ",
+        "liveHouse": "下北沢近松"
+    },
+    "likeCount": 100
+}

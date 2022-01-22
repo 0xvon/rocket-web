@@ -61,3 +61,8 @@ export interface UserProfile {
     followingGroups: GroupFeed[]
     liveSchedule: LiveFeed[]
 }
+
+export interface LiveInfo {
+    live: Live
+    likeCount: number
+}
